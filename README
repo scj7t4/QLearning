@@ -1,0 +1,4 @@
+QLearning
+=========
+
+A small library to do QLearning. Capable of exporting the learned material to pickeled files for use.
